@@ -1,0 +1,6 @@
+{
+  "name": "여정노트 - AI 여행 일정 도우미",
+  "description": "도시, 여행 기간, 스타일, 예산에 맞춰 오전·오후·저녁 하루별 여행 일정과 예상 비용을 추천해 주는 한국어 여행 플래너입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
